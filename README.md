@@ -1,4 +1,3 @@
-```markdown
 # Parking Fee Calculator (Pascal) 🚗
 
 Program sederhana berbasis CLI (Command Line Interface) yang ditulis dengan bahasa Pascal untuk menghitung biaya parkir kendaraan berdasarkan lama waktu parkir.
@@ -22,9 +21,9 @@ Proyek ini dibuat untuk melatih logika pemrograman, penggunaan variabel, aritmat
 ## 🚀 Cara Menjalankan
 
 1. **Clone repository ini:**
-   ```bash
-   git clone [https://github.com/username-kamu/nama-repo-kamu.git](https://github.com/username-kamu/nama-repo-kamu.git)
-   cd nama-repo-kamu
+ ```bash
+ git clone [https://github.com/username-kamu/nama-repo-kamu.git](https://github.com/username-kamu/nama-repo-kamu.git)
+ cd nama-repo-kamu
 
 ```
 
