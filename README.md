@@ -96,19 +96,7 @@ Proyek ini bersifat open-source di bawah lisensi MIT.
 
 ---
 
-Dibuat oleh [Nama Kamu]
+Dibuat oleh Rizkya Gusnaldy Kalia
 
 ```
 
----
-
-### Ide Nama Repo (Opsional):
-Jika belum ada nama reponya, ini beberapa saran:
-* `pascal-parking-system`
-* `biaya-parkir-pascal`
-* `simple-parking-cli`
-* `park-calc-pascal`
-
-Apakah kamu butuh bantuan untuk menulis kode Pascal-nya juga (misalnya rumus if-else nya)?
-
-```
