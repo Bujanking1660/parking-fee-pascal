@@ -1,9 +1,3 @@
-Tentu! Ini draf **README.md** untuk proyek **Kalkulator Biaya Parkir**.
-
-Saya membuat skenarionya umum (tarif jam pertama + tarif jam berikutnya), karena ini adalah logika paling umum dalam tugas pemrograman Pascal.
-
-Silakan copy-paste kode di bawah ini:
-
 ```markdown
 # Parking Fee Calculator (Pascal) 🚗
 
